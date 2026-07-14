@@ -1,0 +1,136 @@
+{
+  "version": 2,
+  "exportedAt": "2026-07-14T08:34:44.348Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Scott",
+      "lname": "McNamara",
+      "pronouns": null,
+      "name": null,
+      "title": "Owner/Coach",
+      "biz": "Capital Fencing Club",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "1515 8th St.",
+      "city": "Sacramento",
+      "state": "CA",
+      "postal": "95814",
+      "country": "U.S.A.",
+      "beforeTextLink": null,
+      "linkedText": null,
+      "url": null,
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": null,
+      "shareImg": null,
+      "bookMarkImg": null,
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#8B8B8B",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#353535",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#616469",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#000000",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": false,
+    "logoOrHeader": true,
+    "customFavicon": false,
+    "shareImage": false,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": false,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": {
+        "file": "photo.jpeg",
+        "ext": "jpeg",
+        "mime": "image/jpeg"
+      },
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "Mobile",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "1 (916) 397-9686",
+        "label": "Your Mobile Number"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.capitalfencingclub.com",
+        "label": "Your Website URL"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "info@capitalfencingclub.com",
+        "label": "Your Email Address"
+      }
+    ],
+    "secondaryActions": [],
+    "featured": [
+      {
+        "title": "Equipment Repair Services",
+        "content": [
+          {
+            "name": "sticker.jpg",
+            "title": "sticker",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "jpeg",
+            "mime": "image/jpeg",
+            "info": null,
+            "file": "media/sticker.jpeg",
+            "coverFile": null,
+            "coverExt": null
+          },
+          {
+            "label": "Go to PSA",
+            "link": "https://precisionsportarmory.wixsite.com/precisionsportarmory",
+            "contentType": "customButton"
+          }
+        ]
+      }
+    ]
+  }
+}
